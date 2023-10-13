@@ -10,6 +10,7 @@
     ]
 ],
   "url": "https://github.com/h3poteto/fedistar/releases/download/v1.7.2/fedistar_1.7.2_x64_en-US.msi",
+  "hash": "0693893d398446a7660e3859df89514dd202cb57245c0fec76d7c225a63b182d",
   "license": "GPL-3.0",
   "checkver": {
     "github": "https://github.com/h3poteto/fedistar"
