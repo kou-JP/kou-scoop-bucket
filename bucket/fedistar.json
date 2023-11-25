@@ -1,6 +1,6 @@
 {
     "homepage": "https://fedistar.net",
-    "version": "1.7.3",
+    "version": "1.7.4",
     "description": "Multi-column Mastodon and Pleroma client for desktop",
     "bin": "./PFiles/fedistar/fedistar.exe",
     "shortcuts": [
@@ -9,8 +9,8 @@
             "fedistar"
         ]
     ],
-    "url": "https://github.com/h3poteto/fedistar/releases/download/v1.7.3/fedistar_1.7.3_x64_en-US.msi",
-    "hash": "55882b4d5f16ddab8a30021efa02501f9aef760f30c9908d58b55ad7786d0eff",
+    "url": "https://github.com/h3poteto/fedistar/releases/download/v1.7.4/fedistar_1.7.4_x64_en-US.msi",
+    "hash": "11f8ec3baad3f5921d71beb405741022e393cad70b5ae232d1043bbaf4080e9a",
     "license": "GPL-3.0",
     "checkver": {
         "github": "https://github.com/h3poteto/fedistar"
